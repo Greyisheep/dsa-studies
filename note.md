@@ -21,4 +21,12 @@ Examples are:
 - Array: A collection of elements stored at contiguous memory locations.
 
 ## What's an Algorithm?
-A set of steps or instructions for completing a task
+A set of steps or instructions for completing a task.  
+
+## Characteristics of an Algorithm
+- An alogrithm must have a clearly defined problem statement, input, and output.
+- The steps in the algorithm need to be in a very specific order.
+- The steps of the algorithm needs to be distinct.
+- The algorithm should produce a result.
+- The algorithm should complete in a finite amount of time.
+
