@@ -21,4 +21,4 @@ Examples are:
 - Array: A collection of elements stored at contiguous memory locations.
 
 ## What's an Algorithm?
-A collection of steps taken to solve a problem
+A set of steps or instructions for completing a task
