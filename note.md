@@ -1,7 +1,10 @@
 ## What is Computational Thinking
+
+
 Computational thinking allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand.
 
 ### The four cornerstones of computational thinking
+
 There are four key techniques (cornerstones) to computational thinking:
 
 - decomposition: breaking down a complex problem or system into smaller, more manageable parts
@@ -23,10 +26,24 @@ Examples are:
 ## What's an Algorithm?
 A set of steps or instructions for completing a task.  
 
-## Characteristics of an Algorithm
+### Characteristics of an Algorithm
 - An alogrithm must have a clearly defined problem statement, input, and output.
 - The steps in the algorithm need to be in a very specific order.
 - The steps of the algorithm needs to be distinct.
 - The algorithm should produce a result.
 - The algorithm should complete in a finite amount of time.
 
+There are two measures of efficiency when it comes to algorithms: time and space
+Which give birth to the popular phrases: time complexity and space complexity.
+
+### What is time complexity?
+
+Time complexity is a measure of the amount of time an algorithm takes to complete as a function of the size of its input. It is commonly expressed using big-O notation, which describes the upper bound on the growth rate of the algorithm's running time.
+
+In simple terms, time complexity represents how the running time of an algorithm increases with the size of the input. It helps in understanding how efficient an algorithm is and how it scales when the input size becomes larger.
+
+## What is space complexity?
+
+Space complexity is a measure of the amount of memory an algorithm requires as a function of the size of its input. Similar to time complexity, space complexity is often expressed using big-O notation. It describes the upper bound on the growth rate of the algorithm's memory usage.
+
+Space complexity helps in understanding how efficiently an algorithm uses memory and how the memory requirements scale with the input size.
