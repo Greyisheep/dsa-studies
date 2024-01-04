@@ -36,7 +36,7 @@ A set of steps or instructions for completing a task.
 There are two measures of efficiency when it comes to algorithms: time and space
 Which give birth to the popular phrases: time complexity and space complexity.
 
-### What is time complexity?
+## What is time complexity?
 
 Time complexity is a measure of the amount of time an algorithm takes to complete as a function of the size of its input. It is commonly expressed using big-O notation, which describes the upper bound on the growth rate of the algorithm's running time.
 
