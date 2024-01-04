@@ -33,8 +33,9 @@ A set of steps or instructions for completing a task.
 - The algorithm should produce a result.
 - The algorithm should complete in a finite amount of time.
 
-There are two measures of efficiency when it comes to algorithms: time and space
-Which give birth to the popular phrases: time complexity and space complexity.
+There are two measures of efficiency when it comes to algorithms: time and space.
+Which give birth to the popular phrases: time complexity and space complexity.  
+A crucial reason for learning algorithms is to understand what works better in a  given context; when measuring efficiency though, we always use the worst case scenarios as a benchmark, because it can never perform worse than the worst case.
 
 ## What is time complexity?
 
